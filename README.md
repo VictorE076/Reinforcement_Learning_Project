@@ -1,14 +1,14 @@
 # Reinforcement_Learning_Project
 
-1. Componenta echipei:
-   -> Economu Victor, grupa 334
-   -> Oprea Calin, grupa 334
-   -> Stancu Adrian Daniel, grupa 334
+1. Componenta echipei:\
+   -> Economu Victor, grupa 334\
+   -> Oprea Calin, grupa 334\
+   -> Stancu Adrian Daniel, grupa 334\
    -> Maciuca Teodor Alexandru, grupa 333
 
 2. Tema propusa pt. proiect: **Optimizarea Deciziilor de Trading Automatizat folosind Reinforcement Learning**
 
-3. Descriere proiect:
+3. Descriere proiect:\
 Proiectul exploreaza utilizarea tehnicilor de invatare utilizand Reinforcement Learning pentru a dezvolta un agent capabil sa ia decizii automatizate in domeniul de **Financial Trading**.
 
 Obiectivul principal este de a implementa si compara 2 algoritmi de RL, precum PPO (Proximal Policy Optimization) si DQN (Deep Q-Network) intr-un mediu personalizat, care simuleaza dinamica pietelor financiare. Mediul va integra date istorice si indicatori tehnici pentru a oferi agentului informatii esentiale, precum preturile actiunilor, volumul tranzactionat si semnale de tranzactionare.
