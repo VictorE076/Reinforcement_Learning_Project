@@ -14,7 +14,7 @@ Proiectul exploreaza utilizarea tehnicilor de invatare utilizand Reinforcement L
 
 Obiectivul principal este de a implementa si compara 2 algoritmi de RL, precum PPO (Proximal Policy Optimization) si DQN (Deep Q-Network) intr-un mediu personalizat, care simuleaza dinamica pietelor financiare. Mediul va integra date istorice si indicatori tehnici pentru a oferi agentului informatii esentiale, precum preturile actiunilor, volumul tranzactionat si semnale de tranzactionare.
 
-Agentul va invata sa maximizeze profitul printr-un proces iterativ de antrenare, bazat pe decizii de tip buy, sell sau hold. Performanta algoritmilor va fi evaluata folosind metrici financiare relevante, cum ar fi: Cumulative Reward, Sharpe Ration, precum si Maximum DrawDown.
+Agentul va invata sa maximizeze profitul printr-un proces iterativ de antrenare, bazat pe decizii de tip buy, sell sau hold. Performanta algoritmilor va fi evaluata folosind metrici financiare relevante, cum ar fi: Cumulative Reward, Sharpe Ratio, precum si Maximum DrawDown.
 
 Proiectul ofera o solutie inovatoare pentru optimizarea strategiilor de trading, utilizand metode de AI adaptate nevoilor pietelor financiare complexe. Rezultatele vor fi documentate detaliat, iar concluziile vor sublinia atat avantajele, cat si limitarile RL in acest domeniu.
 
